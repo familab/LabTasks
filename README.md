@@ -6,6 +6,7 @@ Laptop Room:
   - Throw out black microwave, replace it with old one from old lab.
 
   - Custom power Strips:
+  
       -- What I would like is something resembling our current power strips in size, but maybe the length of the table. In addition to power I would like to add USB (3A+), a lighting button (see lighting project) and a few cat 5/6 jacks. Most of the purchasable ones I have seen seem quite expensive and large. I was thinking we could get some aluminum or sheet metal bend it to about the same shape as the current ones, cut the needed holes ad start mounting shit in it. It would be important to get a quality USB, maybe tear apart and use something like http://amzn.com/B00Q88Q16K
 
   - Upholstered Benches
