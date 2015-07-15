@@ -6,7 +6,6 @@ Laptop Room:
   - Throw out black microwave, replace it with old one from old lab.
 
   - Custom power Strips:
-
         --What I would like is something resembling our current power strips in size, but maybe the length of the table. In addition to power I would like to add USB (3A+), a lighting button (see lighting project) and a few cat 5/6 jacks. Most of the purchasable ones I have seen seem quite expensive and large. I was thinking we could get some aluminum or sheet metal bend it to about the same shape as the current ones, cut the needed holes ad start mounting shit in it. It would be important to get a quality USB, maybe tear apart and use something like http://amzn.com/B00Q88Q16K
 
   - Upholstered Benches
@@ -64,10 +63,7 @@ Misc:
   - Autoclose hinges on all doors except classroom doors
   - Replace 2 interior-grade doors to warehouse with exterior-grade doors
   - Touch up painting and patching
-
       -- Eggshell for Lobby room
-
       -- Semi-gloss for every other room
-
   - On Air Booth
       -- Some of us cowork, and it'd be cool to have a spot to sit when on a video call. This would also be good for people who prefer not to be shoulder surfed. Maybe could put this elsewhere. I know Da3v wants a Bill & Ted booth. :p
