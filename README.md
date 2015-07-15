@@ -22,13 +22,14 @@ Laptop Room:
       -- More of the same led strips in each of the existing overhead lights also hue compatible.
 
   - Restroom Signs
+
       -- I love the walk sign we have, but I want to make it smaller. I was thinking something thin, that normally would have white led's reading Restroom or some such. It would look like a sign you would see in a restaurant but lit. Then when the light was on in the restroom it switch to in use (red/orange). I believe the wiring is super simple except having to convert 2 sources of AC (line and switch) to dc.
 
   - Upgraded Wall
+
       -- The wall shared with the classroom I would like to be metallic (will this fuck up wifi?) and either a chalkboard or a whiteboard.
 
-      -- If its metallic we can poster the hell out of it with refrigerator magnets.
-I was thinking chalkboard cause I can buy a bucket of sidewalk chalk and not worry about it drying out or walking away (NOT a challenge). White board if the chalkboard idea doesn't work out.
+      -- If its metallic we can poster the hell out of it with refrigerator magnets. I was thinking chalkboard cause I can buy a bucket of sidewalk chalk and not worry about it drying out or walking away (NOT a challenge). White board if the chalkboard idea doesn't work out.
 
 
   - K-cups and drawer organizer (or put these in the machine?)
