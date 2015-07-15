@@ -28,9 +28,7 @@ Laptop Room:
       -- The wall shared with the classroom I would like to be metallic (will this fuck up wifi?) and either a chalkboard or a whiteboard.
 
       -- If its metallic we can poster the hell out of it with refrigerator magnets.
-I was thinking chalkboard cause I can buy a bucket of sidewalk chalk and not worry about it drying out or walking away (NOT a challenge).
-
-      -- White board if the chalkboard idea doesn't work out.
+I was thinking chalkboard cause I can buy a bucket of sidewalk chalk and not worry about it drying out or walking away (NOT a challenge). White board if the chalkboard idea doesn't work out.
 
 
   - K-cups and drawer organizer (or put these in the machine?)
@@ -55,11 +53,11 @@ Warehouse:
   - Create path for HAAS between Bay door and HAAS resting spot, moving items out of the way (storage racks are the boundary) 
 
 Bathrooms:
-      -- Bathroom Decor & Accessories
-      -- Soap dispensers (liquid soap or liquid soap foamers)
-      -- Toilet roll holders (non-mounted; 5 roll storage)
-      -- Wall mounted mirrors (I need this)
-      -- Trash cans
+  - Bathroom Decor & Accessories
+  - Soap dispensers (liquid soap or liquid soap foamers)
+  - Toilet roll holders (non-mounted; 5 roll storage)
+  - Wall mounted mirrors (I need this)
+  - Trash cans
 
 
 Misc:
