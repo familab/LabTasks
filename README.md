@@ -7,6 +7,7 @@ Classroom:
 
 Biohacking Room:
   - Door Window: Plan, modify and purchase glass for Bio room door
+  - Install final drawer (hardware sitting on labby table)
 
 Warehouse:
   - Organization: Wood tools on HAAS/2.5D CNC side of warehouse, Metal tools in area near ramp door side of warehouse
