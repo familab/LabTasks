@@ -65,6 +65,7 @@ Misc:
   - Touch up painting and patching
 
       -- Eggshell for Lobby room
+
       -- Semi-gloss for every other room
   - On Air Booth
       -- Some of us cowork, and it'd be cool to have a spot to sit when on a video call. This would also be good for people who prefer not to be shoulder surfed. Maybe could put this elsewhere. I know Da3v wants a Bill & Ted booth. :p
