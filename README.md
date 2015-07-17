@@ -48,8 +48,31 @@ Classroom:
 Biohacking Room:
   - Door Window: Plan, modify and purchase glass for Bio room door
   - Install final drawer (hardware sitting on labby table)
+  - Agree on some safety and safety training stuff.
+  - Get a weekly/bi-weekly bio waste disposal pickup scheduled. (I started to get this set up a long time ago, and will resume working on it after some discussion w/ the board)
+  - Build some stuff:
+    - Laminar hood
+    - OpenPCR
+    - OpenQPCR (soon)
+    - Incubators
+  - Find/buy some stuff
+    - Autoclave (I have one, but it is tiny)
+    - Centrifuge (we have one somewhere)
+    - More Incubators (we had one somewhere)
 
-Warehouse:
+  - Schedule some kit-based classes so we can get some practice in with a reasonable chance of success
+    - Basic GFP transformation
+    - Grow some stuff that glows
+    - Depending on qPCR shipping date, some classes based around that
+    - etc...what are folks interested in?
+
+  - Schedule some ongoing community meetups. We don't need to limit ourselves to these, but some really successful meetups at BioCurious include:
+    - Working on a bioprinter (Caris already has a great meetup going!)
+    - Building a fluid handling robot
+    - A weekly meetup involving plant genetics
+    - A bioreactor project
+   
+   Warehouse:
   - Organization: Wood tools on HAAS/2.5D CNC side of warehouse, Metal tools in area near ramp door side of warehouse
   - Create path for HAAS between Bay door and HAAS resting spot, moving items out of the way (storage racks are the boundary) 
 
