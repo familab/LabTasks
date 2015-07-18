@@ -1,8 +1,6 @@
 # LabTasks
 Laptop Room:
 
-  - Toekicks - Toe Kick hardware is sitting on the floor in Biohacking room. Needs to be cut to size and attached to the legs of the cabinet
-
   - Throw out black microwave, replace it with old one from old lab.
 
   - Custom power Strips:
