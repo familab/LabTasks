@@ -31,7 +31,6 @@ Laptop Room:
 
 
   - K-cups and drawer organizer (or put these in the machine?)
-  - Plastic Cups and Holder for the water cooler  (thanks chorca!)
   - Tea + Coffee Accessories (sugar packets, creamer, etc) with holders and tiny trash can
   - Sponge holder for the sink
   - Soap dispenser for the sink
