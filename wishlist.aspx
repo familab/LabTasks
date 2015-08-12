@@ -1,1 +1,1 @@
-tabletop lampwork equipment
+[ ] tabletop lampwork equipment
